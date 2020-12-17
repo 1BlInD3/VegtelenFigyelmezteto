@@ -1,0 +1,10 @@
+W:\Attila_programok\andrasnak\andrasnak\bin\Debug\andrasnak.exe.config
+W:\Attila_programok\andrasnak\andrasnak\bin\Debug\andrasnak.exe
+W:\Attila_programok\andrasnak\andrasnak\bin\Debug\andrasnak.pdb
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.csprojAssemblyReference.cache
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.Form1.resources
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.Properties.Resources.resources
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.csproj.GenerateResource.cache
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.csproj.CoreCompileInputs.cache
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.exe
+W:\Attila_programok\andrasnak\andrasnak\obj\Debug\andrasnak.pdb
